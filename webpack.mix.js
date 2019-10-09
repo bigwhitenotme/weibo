@@ -1,3 +1,10 @@
+/*
+ * @Description: In User Settings Edit
+ * @Author: your name
+ * @Date: 2019-10-09 03:16:56
+ * @LastEditTime: 2019-10-09 03:16:56
+ * @LastEditors: your name
+ */
 const mix = require('laravel-mix');
 
 /*
@@ -12,4 +19,4 @@ const mix = require('laravel-mix');
  */
 
 mix.js('resources/js/app.js', 'public/js')
-    .sass('resources/sass/app.scss', 'public/css');
+    .sass('resources/sass/app.scss', 'public/css').version();
