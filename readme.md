@@ -2,7 +2,7 @@
  * @Description: In User Settings Edit
  * @Author: haymax
  * @Date: 2019-10-09 03:16:56
- * @LastEditTime: 2019-10-09 09:20:12
+ * @LastEditTime: 2019-10-10 00:44:37
  * @LastEditors: Please set LastEditors
  -->
 "dev": "npm run development",
@@ -20,5 +20,11 @@ rm -rf node_modules
 
 npm install --no-bin-links
 npm run dev --no-bin-links
+
+
+utf8mb4
+utf8mb4_general_ci
+utf8
+utf8_general_ci
 
 
