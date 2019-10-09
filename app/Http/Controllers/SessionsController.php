@@ -30,4 +30,8 @@ class SessionsController extends Controller
        return;
     }
 
+    public function destroy(){
+
+    }
+
 }
