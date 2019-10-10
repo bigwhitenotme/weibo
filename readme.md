@@ -2,7 +2,7 @@
  * @Description: In User Settings Edit
  * @Author: haymax
  * @Date: 2019-10-09 03:16:56
- * @LastEditTime: 2019-10-10 00:44:37
+ * @LastEditTime: 2019-10-10 19:07:49
  * @LastEditors: Please set LastEditors
  -->
 "dev": "npm run development",
@@ -27,4 +27,4 @@ utf8mb4_general_ci
 utf8
 utf8_general_ci
 
-
+不知道哪里有出问题了
